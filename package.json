@@ -1,0 +1,15 @@
+{
+  "name": "work",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "muhammad ali",
+  "type": "commonjs",
+  "main": "index.js",
+"scripts": {
+  "dev": "nodemon index.js"
+},
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
