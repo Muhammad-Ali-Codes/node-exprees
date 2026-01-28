@@ -4,6 +4,7 @@
   "description": "",
   "license": "ISC",
   "author": "muhammad ali",
+<<<<<<< HEAD
   "type": "module",
   "scripts": {
     "dev": "nodemon index.js",
@@ -15,5 +16,14 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.11"
+=======
+  "type": "commonjs",
+  "main": "index.js",
+"scripts": {
+  "dev": "nodemon index.js"
+},
+  "dependencies": {
+    "express": "^5.2.1"
+>>>>>>> 768e48f283f122cfec604ff016070fb46a20db8e
   }
 }
